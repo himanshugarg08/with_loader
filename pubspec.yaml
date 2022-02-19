@@ -1,7 +1,8 @@
 name: with_loader
 description: A Flutter package that provides loading functionality to a widget.
 version: 0.0.1
-homepage: 
+repository: https://github.com/himanshugarg08/with_loader
+homepage: https://github.com/himanshugarg08/with_loader
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
